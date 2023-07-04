@@ -1,4 +1,4 @@
-const getRandNumber = require('./index');
+const getRandNumber = require('../src/index');
 
 describe('getRandNumber', () => {
     it('should return a random number between 0 and 99', () => {
